@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kib:home|Door43 (kib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kib|d43-kib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kib/archive/master.zip|d43-kib.zip]]
+
+**Recent Changes**
+{{changes>ns = kib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kib|Ethnologue data]]
+
